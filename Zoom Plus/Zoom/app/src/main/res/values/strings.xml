@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Zoom</string>
+    <string name="title_home">Home</string>
+    <string name="title_accounts">Accounts</string>
+    <string name="title_meetings">Meetings</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_individual_server">Individual Server</string>
+    <string name="title_individual_meeting">Individual Meeting</string>
+    <string name="title_server">Servers</string>
+    <string name="title_users">Users</string>
+    <string name="title_profile">Profiles</string>
+    <string name="title_edit_profile">Profile Edition</string>
+    <string name="title_chat">Chat</string>
+</resources>
